@@ -21,8 +21,4 @@ O sistema permite adicionar, visualizar e armazenar informações de forma simpl
 
 ---
 
-## ▶️ Como executar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/nome-do-projeto
